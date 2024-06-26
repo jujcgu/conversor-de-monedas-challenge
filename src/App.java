@@ -61,8 +61,7 @@ public class App {
                         break;
                     default:
                         break;
-                }
-                lectura.close();
+                }                
 
                 if (opcion.equals(7)) {
                     System.out.println("\rHasta luego, vuelva pronto");
